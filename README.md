@@ -39,7 +39,6 @@ python predict.py
 
 * [Tensorflow 2.0](https://www.tensorflow.org/) - Machine learning library 
 * [Numpy 1.16.5](https://numpy.org/) - Math library
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
 ## Authors
