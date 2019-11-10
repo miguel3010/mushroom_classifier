@@ -24,8 +24,8 @@ And for visualizing the training you could use tensorboard by executing:
 tensorboard --logdir=./logs/scalars
 ```
 ### Convergence
-
-
+![alt text](https://github.com/miguel3010/mushroom_classifier/blob/master/img1.png?raw=true)
+![alt text](https://github.com/miguel3010/mushroom_classifier/blob/master/img2.png?raw=true)
 ### Predicting
 
 After the model finished training, take the saved model folder name, and modify the variable 'export_path_keras' in predict.py. Then run:
