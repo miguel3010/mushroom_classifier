@@ -17,7 +17,7 @@ logger.setLevel(logging.ERROR)
 np.set_printoptions(precision=3, suppress=True)
 dataset_url = 'dataset.csv'
 BATCH_SIZE = 32
-EPOCHS = 20
+EPOCHS = 50
 DATASET_SIZE = 8416
 OUTPUT_COLUMN = "mushroom"
 steps = 300

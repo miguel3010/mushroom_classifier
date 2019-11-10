@@ -76,6 +76,6 @@ y = reloaded.predict(input_fn(x))
 y = y[0][0]
 
 if(y <= 0.5):
-    print("EDIBLE")
+    print("EDIBLE | 0")
 else:
-    print("POISONOUS")
+    print("POISONOUS | 1")
